@@ -76,6 +76,9 @@ The dataset was divided into:
 80% Training Data
 20% Testing Data
 
+<img width="1123" height="582" alt="image" src="https://github.com/user-attachments/assets/d415c9f9-8cc7-445e-a86b-246df4a111b1" />
+
+
 ----
 
 ## Conclution
