@@ -1,8 +1,5 @@
 # DecodeLabs_tasks2
 
-# Simple ChatBot
-Building a simple rule-based AI chatbot.
-
 ----
 
 # Table of Content
